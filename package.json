@@ -1,5 +1,5 @@
 {
-  "name": "acl",
+  "name": "@kstudio/kadm-acl",
   "version": "0.4.11",
   "description": "An Access Control List module, based on Redis with Express middleware support",
   "keywords": [
